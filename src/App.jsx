@@ -10,7 +10,7 @@ function App() {
     <div>
 
       
-      <h1>Names</h1>
+      <h1>People's Names</h1>
       <Message name="Caleb Kironde: BSIT  YEAR 1"/>
       <Message name="Precious Nekuse: BSIT  YEAR 1"/>
       <Message name="Genevieve Bwayo: BSIT  YEAR 1"/>
